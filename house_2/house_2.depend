@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1755722120 source:c:\msys64\mingw64\samadhan\house_2\main.cpp
+	<GL/glut.h>
+
