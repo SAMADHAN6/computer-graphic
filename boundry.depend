@@ -1,5 +1,0 @@
-# depslib dependency file v1.0
-1759992425 source:c:\msys64\mingw64\boundry\main.cpp
-	<GL/glut.h>
-	<math.h>
-
